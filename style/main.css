@@ -6,8 +6,13 @@
 }
 
 .container {
-	max-width: 320px;
+	max-width: 95%;
 	margin: 0 auto;
+}
+
+.about-me {
+	font-family: sans-serif;
+	font-size: 25px;
 }
 
 .about-me_avatar {
@@ -16,4 +21,12 @@
 
 .about-me > p {
 	padding: 10px;
+}
+
+.about-me_description {
+	background-color: #eee;
+}
+
+.about-me_skills {
+	background-color: #cdcdcd;
 }
